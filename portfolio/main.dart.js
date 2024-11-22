@@ -66515,7 +66515,7 @@ A.oW.prototype={
 E(){return"Variant."+this.b}}
 A.CK.prototype={
 M(a){var s=this,r=null,q=s.c,p=s.d,o=s.e,n=s.f
-return new A.tx(new A.uN(new A.DI(new A.FA(q,p,o,n,r),B.ID,r),new A.rW(q,p,o,n,r),r),"Flutter Demo",A.agF(r,A.anb(B.Q,B.ER),!0),!1,r)}}
+return new A.tx(new A.uN(new A.DI(new A.FA(q,p,o,n,r),B.ID,r),new A.rW(q,p,o,n,r),r),"Minsik's Development Portfolio",A.agF(r,A.anb(B.Q,B.ER),!0),!1,r)}}
 A.o5.prototype={}
 A.CJ.prototype={
 M(a){var s=null
